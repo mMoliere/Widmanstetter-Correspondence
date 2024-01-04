@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventory of Johann Albrecht Widmanstetter's Correspondence</title>
+                <editor>Maximilian de Molière<email>maxmoliere@hotmail.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://orcid.org/0000-0002-2168-8655">Maximilian de Molière</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <idno type="url">https://github.com/mMoliere/Widmanstetter-Correspondence/Widmanstetter-Correspondence-Inventory.xml</idno>
+                <date when="2024-01-05T12:52:39.459-01:00"/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="c35496a2-132d-413a-b7cc-9089e4e763d5">Maximilian de Molière. Confronting Kabbalah. Studies in the Christian Hebraist Library of Johann Albrecht Widmanstetter. (Leiden: Brill, 2024).</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3172394">Neapel</placeName>
+                    <date evidence="conjecture" when="1532"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118647113">Egidio da Viterbo</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/3169070">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">landshut</placeName>
+                    <date when="1543-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Isaak von Günzburg</persName>
+                    <placeName ref="http://www.geonames.org/2913555">Günzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                    <date when="1543-03-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Isaak von Günzburg</persName>
+                    <placeName ref="http://www.geonames.org/2913555">Günzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11868194X">Elijah Levita</persName>
+                    <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+                    <date when="1543-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <date when="1543-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118685767">Paulus Fagius</persName>
+                    <placeName ref="http://www.geonames.org/2895638">Isny</placeName>
+                    <date when="1544-07-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                    <date notAfter="1544-09-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                    <date notAfter="1554-09-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2895992">Ingolstadt</placeName>
+                    <date evidence="conjecture" when="1549-03-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="2">
+                <correspAction type="sent">
+                    <persName>Baruch von Benevent</persName>
+                    <date when="1533-03-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118578685">Andreas Masius</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2849483">Regensburg</placeName>
+                    <date when="1541-07-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2849483">Regensburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                    <date when="1543-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#c35496a2-132d-413a-b7cc-9089e4e763d5" key="7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118845373">Paulus Aemilius</persName>
+                    <placeName ref="http://www.geonames.org/2954172">Augsburg</placeName>
+                    <date evidence="conjecture" when="1543-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117342580">Johann Albrecht Widmanstetter</persName>
+                    <placeName ref="http://www.geonames.org/2881485">Landshut</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
