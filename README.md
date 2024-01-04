@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/738920740.svg)](https://zenodo.org/doi/10.5281/zenodo.10458256)
+
 # Widmanstetter Correspondence Inventory
 
 Metadata of Johann Albrecht Widmanstetter's correspondence generated with [CMIF-Creator](https://correspsearch.net/de/cmif-creator.html) for ingestion into [CorrespSearch](https://correspsearch.net/).
